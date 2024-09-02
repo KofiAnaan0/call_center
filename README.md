@@ -19,14 +19,13 @@ The **PhoneNow Call Center Dashboard** project was created using Power BI to gai
   - Resolved and Unresolved Topics
   - Topic
   - Speed of Answer
-  - [Download the dataset](datasets/PhoneNow_Call_Center_Dataset.csv)
+  - [Download the dataset](assets/datasets/Call-Center-Dataset.xlsx)
 - **Dashboard Folder**: Contains the Power BI dashboard displaying the visualizations created from the data.
-  - [View the Dashboard](dashboard/PhoneNow_Call_Center_Dashboard.pbix)
 
 ## Steps Taken
 
 ### 1. Client Request
-The project began with a detailed request from the client, outlining the specific insights they were seeking from the PhoneNow call center data. This request guided the entire project and ensured alignment with the client's objectives. [View the client's email](user-requirements/client-email-snippet.txt)
+The project began with a detailed request from the client, outlining the specific insights they were seeking from the PhoneNow call center data. This request guided the entire project and ensured alignment with the client's objectives. ![View the client's email](assets/client_requirements/email.JPG)
 
 ### 2. Data Transformation & Loading
 The provided datasets were in CSV format. These datasets were transformed to ensure consistency and accuracy before being loaded into Power BI. Key metrics such as satisfaction ratings, call resolutions, and call speeds were prioritized in the transformation process. [Download the dataset](datasets/PhoneNow_Call_Center_Dataset.csv)
