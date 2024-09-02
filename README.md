@@ -28,10 +28,10 @@ The **PhoneNow Call Center Dashboard** project was created using Power BI to gai
 The project began with a detailed request from the client, outlining the specific insights they were seeking from the PhoneNow call center data. This request guided the entire project and ensured alignment with the client's objectives. ![View the client's email](assets/client_requirements/email.JPG)
 
 ### 2. Data Transformation & Loading
-The provided datasets were in CSV format. These datasets were transformed to ensure consistency and accuracy before being loaded into Power BI. Key metrics such as satisfaction ratings, call resolutions, and call speeds were prioritized in the transformation process. [Download the dataset](datasets/PhoneNow_Call_Center_Dataset.csv)
+The provided datasets were in CSV format. These datasets were transformed to ensure consistency and accuracy before being loaded into Power BI. Key metrics such as satisfaction ratings, call resolutions, and call speeds were prioritized in the transformation process. [Download the dataset](assets/datasets/Call-Center-Dataset.xlsx)
 
 ### 3. Dashboard Creation
-Finally, a Power BI dashboard was created to visualize the key metrics and provide actionable insights. The dashboard includes interactive elements, allowing users to explore the data in detail. [View the Dashboard](dashboard/PhoneNow_Call_Center_Dashboard.pbix)
+Finally, a Power BI dashboard was created to visualize the key metrics and provide actionable insights. The dashboard includes interactive elements, allowing users to explore the data in detail. ![View the Dashboard](assets/dashboard/dashboard.JPG)
 
 ## How to Use
 
@@ -41,7 +41,7 @@ Finally, a Power BI dashboard was created to visualize the key metrics and provi
 
 ## Contact
 
-For any further questions or inquiries about this project, please contact [Kofidence](mailto:kofidence@example.com).
+For any further questions or inquiries about this project, please contact [Kofidence](mailto:santosisadru@gmail.com).
 
 ---
 
