@@ -10,7 +10,7 @@ The **PhoneNow Call Center Dashboard** project was created using Power BI to gai
 
 ## Project Structure
 
-- **User Requirements Folder**: Contains the initial client request via email. [View the email](assets/client_requirements/Manager,PhoneNow.JPG)
+- **User Requirements Folder**: Contains the initial client request via email. [View the email](assets/client_requirements/email.JPG)
 - **Dataset Folder**: Contains the CSV files used for the analysis. The datasets include:
   - Agent
   - Call ID
